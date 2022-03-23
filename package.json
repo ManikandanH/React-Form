@@ -1,5 +1,5 @@
 {
-	"name": "react-form",
+	"name": "mani-react-form",
 	"version": "1.0.0",
 	"author": "Manikandan Arjunan",
 	"description": "Simple resuable react form",
@@ -7,10 +7,6 @@
 		"typescript",
 		"react"
 	],
-	"publishConfig": {
-		"name": "@ManikandanH/react-form",
-		"registry": "https://npm.pkg.github.com/ManikandanH"
-	},
 	"dependencies": {
 		"react": "17.0.2",
 		"react-dom": "17.0.2",

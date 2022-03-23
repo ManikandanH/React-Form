@@ -8,6 +8,7 @@
 		"react"
 	],
 	"publishConfig": {
+		"name": "@ManikandanH/react-form",
 		"registry": "https://npm.pkg.github.com/ManikandanH"
 	},
 	"dependencies": {

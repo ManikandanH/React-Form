@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# production
+/src
+/tsconfig.json
+/public
+/package.json
+/package-lock.json
+/rollup.config.js

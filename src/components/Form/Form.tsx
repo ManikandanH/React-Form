@@ -1,6 +1,6 @@
 import React, { Fragment, useState } from 'react';
 import { FormFields, FormSubmitValues } from './types';
-import '/styles.css';
+import 'index.css';
 
 interface FormProps {
 	formFields: Array<FormFields>;
